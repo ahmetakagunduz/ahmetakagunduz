@@ -15,9 +15,6 @@ I’m a passionate software developer with a strong interest in building efficie
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmetakagunduz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmetakagunduz&icon=2&color=0)](https://visitcount.itsvg.in)
 
